@@ -1,0 +1,12 @@
+{
+  "description": "A mini app to test cozy-stack-v2",
+  "developer": {
+    "name": "Bruno",
+    "url": "cozy.io"
+  },
+  "license": "MIT",
+  "name": "mini-app",
+  "permissions": {},
+  "slug": "mini",
+  "version": "0.1.0"
+}
