@@ -8,5 +8,13 @@
   "name": "mini-app",
   "permissions": {},
   "slug": "mini",
-  "version": "0.1.2"
+  "version": "0.1.2",
+  "permissions": {
+    "settings": {
+      "description": "super test des permissions settings",
+      "type": "io.cozy.settings",
+      "verbs": ["GET"]
+    }
+  }
+
 }
